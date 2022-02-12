@@ -1,0 +1,12 @@
+.content_container{
+    width: 100%;
+}
+.content_list{
+    text-align: center;
+    margin:0 auto;
+    width: 70%;
+}
+.itemcard  {
+    margin:0 auto;
+    width:200px;
+}
