@@ -1,0 +1,18 @@
+.rank_list{
+    margin:0 auto;
+    width: 70%;
+}
+.rankcard  {
+    
+    width:100%;
+}
+.rankcard_text{
+    max-width: 1200px;
+    word-wrap: break-word;
+    text-align: left;
+    font-size: 18px;
+}
+.rankcard_img {
+    margin:0 auto;  
+    width:200px
+}

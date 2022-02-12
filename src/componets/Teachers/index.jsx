@@ -4,7 +4,6 @@ import {List,Card} from "antd"
 import { teachersdata } from '../../test.data';
 
 import img_home from "../../assets/home.png"
-import "./index.css"
 
 export default class Teachers extends Component {
   render() {
@@ -14,9 +13,9 @@ export default class Teachers extends Component {
       gutter: 16,
       xs: 1,
       sm: 2,
-      md: 4,
-      lg: 4,
-      xl: 6,
+      md: 2,
+      lg: 3,
+      xl: 3,
       xxl: 3,
     }}
     dataSource={teachersdata}

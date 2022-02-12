@@ -37,7 +37,7 @@ export const navdata ={
 
         },
         {
-            "name":"联系我们",
+            "name":"关于我们",
             "icon":"CommentOutlined",
             "link":"/about",
             "children":[]
@@ -116,4 +116,32 @@ export const teachersdata =[
         description: "Teacher 6",
     }
 
+]
+export const platformsdata =[
+    {
+        name: "PaiBlockly软件编程",
+        description: "PaiBlockly软件编程xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    },
+    {
+        name: "PaiBlocklyAPP编程",
+        description: "PaiBlocklyAPP编程xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    }
+]
+export const ranksdata =[
+    {
+        name: "NCT少儿编程考级",
+        description: "NCT少儿编程考级xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    },
+    {
+        name: "青少年科技创新大赛",
+        description: "青少年科技创新大赛xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    },
+    {
+        name: "厦门市中小学生创客大赛",
+        description: "厦门市中小学生创客大赛xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    },
+    {
+        name: "宋庆龄少年儿童发明奖",
+        description: "宋庆龄少年儿童发明奖xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    }
 ]
